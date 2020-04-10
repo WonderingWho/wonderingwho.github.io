@@ -1,0 +1,64 @@
+*{
+    background-color: beige;
+    font-family: fantasy;
+}
+h1{
+    font-weight:bold;
+    color:#0080FF;
+    position:relative;
+    left:10px;
+    top:50px;
+    background-color:none;
+    text-align:center;
+    margin:20px;
+    color: saddlebrown;
+}
+p{
+    color:saddlebrown;
+}
+img#location{
+    width:50px;
+    height:50px;
+    position:relative;
+    left:300px;
+    margin:10px;
+}
+img#email{
+    width:50px;
+    height:50px;
+    position:relative;
+    left:300px;
+    margin:10px;
+}
+img#phone{
+    width:50px;
+    height:50px;
+    position:relative;
+    left:300px;
+    margin:10px;
+}
+img#work{
+    width:50px;
+    height:50px;
+    position:relative;
+    left:300px;
+    margin:10px;
+}
+.blankspace{
+    height:170px;
+}
+strong{
+    position:relative;
+    top:-25px;
+    left:500px;
+}
+span{
+    position:relative;
+    left:550px;
+    top:-25px;
+}
+span#satsun{
+    position:relative;
+    left:180px;
+    top:10px;
+}

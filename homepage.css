@@ -1,0 +1,101 @@
+* {
+    font-family:  sans-serif;
+    background-color: beige;
+    color:saddlebrown;
+}
+.navup{ 
+     position:relative;
+    left:10px;
+    top:15px;
+    margin:30px;
+    text-align:center;
+    word-spacing: 0.7em;
+    display:inline;
+}
+li.up{
+    display:inline-block;
+    word-spacing: 0.7em;
+}
+a{
+    color:#FFD500;
+    text-decoration:none;
+}
+
+li.down{
+    display: inline-block;
+}
+
+img.man {
+    position: relative;
+    top:auto px;
+    left: 750px;
+    height:400px;
+    width:300px;
+    border-radius:25px;
+}
+.imagepar{
+    position:relative;
+    top:-350px;
+    left:1080px;
+    color:saddlebrown;
+    display:block;
+}
+name.x {
+    font-size: 25px;
+    font-weight: bold;
+}
+.navbottom{
+    margin-top:0px;
+    position: relative;
+    left:950px;
+    word-spacing:0.7em;
+    top:-100px;
+}
+.navright{
+    position: relative;
+    right: 5px;
+    top:-600px;
+    width:20px;
+}
+.navleft{
+    position: relative;
+    top:-500px;
+    left:1950px;
+    width:10px;
+}
+block1.benefits{
+    position:relative;
+    left:350px;
+    top:25px;
+    margin:10px;
+}
+block2.benefits{
+    position:relative;
+    left:850px;
+    top:-195px;
+    margin:10px;
+}
+block3.benefits{
+    position:relative;
+    left:1340px;
+    top:-380px;
+    width:50px;
+    margin:10px;
+}
+hr{
+    margin-left: 10px;
+    width:70px;
+}
+ul{
+    list-style-type:none;
+}
+li{
+    font-size:30px;
+}
+h1{
+    width: 30px;
+    padding: auto;
+    margin-top:30px;
+    margin-right:70px;
+    margin-left:300px;
+}

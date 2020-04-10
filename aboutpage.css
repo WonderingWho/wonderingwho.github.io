@@ -1,0 +1,43 @@
+*{
+    background-color:beige;
+    font-family:sans-serif;
+}
+
+h1{
+    position:relative;
+    left:10px;
+    top:15px;
+    margin:30px;
+    background-color: none;
+    text-align:center;
+    color:saddlebrown;
+}
+#choice{
+    display: inline;
+    word-spacing: 7em;
+    position:relative;
+    left:620px;
+    top:30px;
+    font-family:sans-serif;
+}
+div.blankspace{
+    height:800px;
+    width:900px;
+}
+.button {
+	padding: 10px 20px;
+	background-color:gold;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 10px 0 0 0;
+	border-radius: 10px;
+	color: #fff;
+}
+table{
+    width:700px;
+    height:300px;
+    position:relative;
+    left:650px;
+    background-color:gold;
+}
